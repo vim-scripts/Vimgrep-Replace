@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1776
+
+Embryonic hack to allow a user to do search and replaces on a directory using vimgrep and s///
+
+Suggestions and updates are very welcome!
